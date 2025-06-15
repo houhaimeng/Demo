@@ -4,10 +4,10 @@ import ProgressBarList from './ProgressBarList';
 
 const App = () => {
   const progressData = [
-    { filename: 'HUB Master', percentage: 10, color: 'green' },
-    { filename: 'HUB Enabler',percentage: 20, color: 'green' },
-    { filename: 'CDP',percentage: 75, color: 'green' },
-    { filename: 'HIE',percentage: 75, color: 'green' },
+    { filename: 'qw', percentage: 10, color: 'green' },
+    { filename: 'qw',percentage: 20, color: 'green' },
+    { filename: 'wq',percentage: 75, color: 'green' },
+    { filename: 'qw',percentage: 75, color: 'green' },
   ];
   const progressData1 = [
     { percentage: 10, color: 'red' },
